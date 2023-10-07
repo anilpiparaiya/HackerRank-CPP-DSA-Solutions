@@ -1,1 +1,1 @@
-# HackerRank-CPP-SQL
+# HackerRank Solutions 
