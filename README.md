@@ -4,3 +4,11 @@
   <br>
    ✨DS - ALGO - SOLUTIONS✨
   </h1>
+
+
+  <div align="center">
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+
+  </div>
+
+Be sure to ⭐ this repo so you can keep up to date on any daily progress!
